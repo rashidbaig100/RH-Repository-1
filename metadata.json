@@ -1,0 +1,6 @@
+{
+  "name": "Eastern Flavours Finance",
+  "description": "Integrated restaurant and banquet hall financial accounting, FP&A, and single-point-of-entry management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
